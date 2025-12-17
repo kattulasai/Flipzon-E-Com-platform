@@ -1,5 +1,7 @@
 # Flipzon E-Com platform
 
+Project live link:  https://flipzone-complatform.netlify.app/
+
 React e-commerce application using FakeStore API.
 
 Purpose: Demonstrates component architecture, API integration, search/filtering, cart & wishlist flows, routing, responsive UI, and basic persistence.
